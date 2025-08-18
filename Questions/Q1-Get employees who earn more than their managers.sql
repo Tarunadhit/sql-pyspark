@@ -26,3 +26,4 @@ WHERE e.salary > m.salary;
 
 Fun twist: This query exposes the “secret rebels” in the office earning higher than their managers 😅.
 */
+
