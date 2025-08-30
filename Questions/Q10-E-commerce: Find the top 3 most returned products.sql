@@ -11,7 +11,7 @@ CREATE TABLE Returns (
 );
 
 
--- 📝 Sample Data (only small input example, not inserts)
+-- 📝 Sample Data 
 | ReturnID | OrderID | ProductID | ReturnReason     |
 |----------|---------|-----------|------------------|
 | 1        | 101     | P1        | Damaged item     |
