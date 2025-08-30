@@ -13,7 +13,7 @@ CREATE TABLE Orders (
     CustomerID INT
 );
 
--- 📝 Sample Data (only small input example, not inserts)
+-- 📝 Sample Data 
 | CustomerID | Name |
 |------------|---------|
 | 1 | Alice |
