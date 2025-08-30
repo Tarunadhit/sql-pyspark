@@ -10,7 +10,7 @@ CREATE TABLE Orders (
     TotalAmount DECIMAL(10,2)
 );
 
--- 📝 Sample Data (only small input example, not inserts)
+-- 📝 Sample Data 
 | OrderID | CustomerID | OrderDate | TotalAmount |
 |---------|------------|------------|-------------|
 | 1 | 201 | 2024-01-10 | 120.00 |
