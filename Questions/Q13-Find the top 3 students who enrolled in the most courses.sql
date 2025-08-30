@@ -14,7 +14,7 @@ CREATE TABLE Enrollments (
     CourseID INT
 );
 
--- 📝 Sample Data (only small input example, not inserts)
+-- 📝 Sample Data 
 | StudentID | Name |
 |-----------|----------|
 | 1 | Alice |
