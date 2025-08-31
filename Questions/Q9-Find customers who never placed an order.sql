@@ -34,6 +34,7 @@ FROM Customers c
 LEFT JOIN Orders o ON c.CustomerID = o.CustomerID
 WHERE o.CustomerID IS NULL;
 
+
 /*
 -- 🎉 Explanation
 A `LEFT JOIN` keeps all customers, even if they don’t have matching orders.  
