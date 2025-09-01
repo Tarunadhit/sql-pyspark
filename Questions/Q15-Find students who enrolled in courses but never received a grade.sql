@@ -53,5 +53,4 @@ We join students with their enrollments,
 then use a `LEFT JOIN` with grades to see who never got one.  
 The `WHERE g.GradeID IS NULL` filters out graded students,  
 leaving only those waiting for their results 📑.  
-
 */
