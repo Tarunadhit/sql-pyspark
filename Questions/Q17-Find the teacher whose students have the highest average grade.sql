@@ -21,7 +21,7 @@ CREATE TABLE Grades (
     Grade DECIMAL(5,2)
 );
 
--- 📝 Sample Data (only small input example, not inserts)
+-- 📝 Sample Data
 | TeacherID | TeacherName |
 |-----------|-------------|
 | 1 | Mr. Smith |
